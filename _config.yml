@@ -1,0 +1,25 @@
+theme: jekyll-rtd-theme
+
+
+# 站点信息
+title: "NewImagery Documentation"
+description: "NewImagery Documentation Site."
+author: "Your Name"
+
+# 社交链接
+github_username: your-github-username
+twitter_username: your-twitter-username
+
+# 语言设置
+language: en
+
+# 搜索引擎优化
+google_analytics: UA-XXXXXXXXX-X
+baidu_analytics: your-baidu-analytics-id
+
+# 评论支持
+disqus_shortname: your-disqus-shortname
+
+# 本地化
+locale: en_US
+
